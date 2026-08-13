@@ -1,2 +1,7 @@
 Hello Git!
 This is my first Git lab.
+Main branch line
+This is a new feature
+Feature branch line
+adding one line to pushed to remote
+This is Nishank Naik
